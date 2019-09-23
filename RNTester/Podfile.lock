@@ -22,7 +22,6 @@ PODS:
   - React/DevSupport (1000.0.0):
     - React/Core
     - React/RCTWebSocket
-  - React/fishhook (1000.0.0)
   - React/jsi (1000.0.0):
     - Folly (= 2018.10.22.00)
   - React/jsiexecutor (1000.0.0):
@@ -58,7 +57,6 @@ PODS:
     - React/Core
   - React/RCTWebSocket (1000.0.0):
     - React/Core
-    - React/fishhook
     - React/RCTBlob
   - yoga (1000.0.0.React)
 
